@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Parkos
+- 👀 I love Houdini, and enjoy the finer details in code
+- 🌱 Currently learning MaxScript and C#
